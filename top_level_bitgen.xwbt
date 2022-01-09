@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\go_fuck_yourself_fpga\top_level.ncd
+OUTFILE=D:\go_fuck_yourself_fpga\top_level.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=D:\go_fuck_yourself_fpga
+LICENSE=WebPack
+USER_INFO=__0_0_0
